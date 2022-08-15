@@ -8,6 +8,6 @@ Last step is to simply execute `run ./example.sh` in the command line
 
 ## [VS Code updater](https://github.com/CharbelElBateh/bash-files/blob/main/vs-code-autoupdate.sh)
 
-This bash file will fetch the latest .deb file and store it in `/tmp` and then install it.
+This bash file will fetch the latest `.deb` file and store it in `/tmp` and then install it.
 
 Run it whenever VsCode prompts that there is a new version available!
