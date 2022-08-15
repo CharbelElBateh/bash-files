@@ -2,11 +2,11 @@
 
 Useful bash files to use on a daily basis
 
-🛑 Remember to run `chmod u+x example.sh` in the command line to make the file executable
+:exclamation: Remember to run `chmod u+x example.sh` in the command line to make the file executable
 
-Last step is to simply execute `run ./example.sh` in the command line
+Lastly `run ./example.sh` in the command line
 
-## [VS Code updater](https://github.com/CharbelElBateh/bash-files/blob/main/vs-code-autoupdate.sh)
+## [VS Code updater](https://github.com/CharbelElBateh/bash-files/blob/main/vs-code-updater.sh) *for UNIX based OS*
 
 This bash file will fetch the latest `.deb` file and store it in `/tmp` and then install it.
 
