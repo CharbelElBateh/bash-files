@@ -6,7 +6,7 @@ Useful bash files to use on a daily basis
 
 Last step is to simply execute `run ./example.sh` in the command line
 
-## VS Code updater
+## [VS Code updater](https://github.com/CharbelElBateh/bash-files/blob/main/vs-code-autoupdate.sh)
 
 This bash file will fetch the latest .deb file and store it in `/tmp` and then install it.
 
